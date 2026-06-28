@@ -66,16 +66,15 @@ header p {
 
 .card-front {
     background: linear-gradient(135deg, rgba(0, 119, 182, 0.85), rgba(3, 4, 94, 0.95)), 
-                url('https://images.unsplash.com/photo-1596492784531-6e6eb5ea9993?auto=format&fit=crop&w=600&q=80') no-repeat center/cover;
+                url('https://images.unsplash.com/photo-1559583985-c80d8ad9b29f?auto=format&fit=crop&w=600&q=80') no-repeat center/cover;
 }
 
 .card-back {
     background: linear-gradient(135deg, rgba(0, 180, 216, 0.9), rgba(0, 119, 182, 0.95)), 
-                url('https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=600&q=80') no-repeat center/cover;
+                url('https://images.unsplash.com/photo-1618477388954-7852f32655ec?auto=format&fit=crop&w=600&q=80') no-repeat center/cover;
     transform: rotateY(180deg);
 }
 
-/* O TRECHO CORRIGIDO ESTÁ AQUI ABAIXO: */
 .badge {
     font-weight: bold;
     text-transform: uppercase;
